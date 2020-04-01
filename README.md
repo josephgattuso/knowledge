@@ -4,7 +4,7 @@ description: >-
   wiki hosted on GitHub and GitBook.
 ---
 
-# Knowledge Wiki
+# [Knowledge Wiki](https://josephgattuso.gitbook.io/knowledge)
 
 ## Contents
 
