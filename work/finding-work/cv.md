@@ -1,8 +1,10 @@
+---
+description: I want to make my CV using Awesome CV template in LaTex. See the links below
+---
+
 # CV
 
-I want to make [my CV](https://github.com/josephgattuso/cv/blob/master/README.md) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTex](https://sourabhbajaj.com/mac-setup/LaTeX/). See the [links](cv.md#links) below
-
-## 🕶 Awesome CVs
+### 🕶 Awesome CVs
 
 * [Joshua Cockrell](http://joshcockrell.com/joshua_cockrell_resume.pdf) - Minimal.
 * [Safia Abdalla](https://cloudup.com/cqozUYp889k)
@@ -40,7 +42,7 @@ I want to make [my CV](https://github.com/josephgattuso/cv/blob/master/README.md
 * [Chris Lattner](http://nondot.org/sabre/Resume.html)
 * [Brian Anderson](https://brson.github.io/resume.html)
 
-## Notes
+### Notes
 
 * Ideally keep the CV to one page, so cut out irrelevant or low signal information.
 * Experience &gt; Education. Add valuable detail to CV. Detail the role you played or the impact you had in the job.
@@ -51,11 +53,11 @@ I want to make [my CV](https://github.com/josephgattuso/cv/blob/master/README.md
   * What was the business impact?
   * Is this experience relevant for my business?
 
-## Links
+### Links
 
-* \[How to write a LaTex class file and design your own CV \(Part 1\)\]\([https://www.overleaf.com/learn/latex/How\_to\_write\_a\_LaTeX\_class\_file\_and\_design\_your\_own\_CV\_\(Part\_1\)](https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV_%28Part_1%29)\)\(\[Part 2\)\]\([https://www.overleaf.com/learn/latex/How\_to\_write\_a\_LaTeX\_class\_file\_and\_design\_your\_own\_CV\_\(Part\_2\)](https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV_%28Part_2%29)\)
+* [How to write a LaTex class file and design your own CV \(Part 1\)](https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV_%28Part_1%29)  [\(Part 2\)](https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV_%28Part_2%29)
 * [iOS Resume Examples](https://www.raywenderlich.com/54029/ios-developer-resume-examples)
-* [NatalieHub](https://github.com/nataliemarleny/nataliemarleny.github.io) - Githubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma.
+* [NatalieHub](https://github.com/nataliemarleny/nataliemarleny.github.io) - GitHub-ified resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma.
 * [Modern LaTeX CV template](https://github.com/fanzeyi/cv)
 * [Resume Review thread](https://dev.to/kaydacode/resume-review-1oei)
 * [Let’s talk about your resume \(2020\)](https://hugogiraudel.com/2020/01/13/lets-talk-about-your-resume/)
