@@ -1,6 +1,6 @@
 # Remote Work
 
-## Links
+### Links
 
 * [Homenauts – Resources for explorers who stay at home during Covid-19](https://www.homenauts.com/) \([HN](https://news.ycombinator.com/item?id=22679663)\)
 * [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork#readme)
@@ -38,7 +38,7 @@
 * [Our list of free software for remote work](https://puri.sm/posts/our-essential-list-of-free-software-for-remote-work/) \([HN](https://news.ycombinator.com/item?id=22698299)\)
 * [WeWork Files for IPO \(2019\)](https://news.ycombinator.com/item?id=19781549)
 
-## Ask HN
+### Ask HN
 
 * [Ask HN: Sources of remote dev work with minimal human interaction? \(2019\)](https://news.ycombinator.com/item?id=19767428)
 * [Ask HN: What are the biggest challenges preventing startups from hiring remote?](https://news.ycombinator.com/item?id=17021655) - [Mitchell Hashimoto's comment was great](https://news.ycombinator.com/item?id=17022563)

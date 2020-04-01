@@ -26,12 +26,12 @@ I attached my CV for further information, let me know if you'd be interested in 
 
 My other favourite way of finding interesting work opportunities is meeting and interacting with people personally through various events and getting to know what they're building.
 
-## Notes
+### Notes
 
 * Sort by newest jobs in websites and check regularly and apply then.
 * [If asked previous salary, you can answer `As per contract, I'm not at liberty to disclose this.`.](https://www.reddit.com/r/cscareerquestionsEU/comments/9ohap7/uk_company_asking_about_current_salary_up_front/)
 
-## Links
+### Links
 
 * [How to Pick a Career \(That Actually Fits You\)](https://waitbutwhy.com/2018/04/picking-career.html)
 * [HN: My somewhat complete salary history as a software engineer \(2018\)](https://news.ycombinator.com/item?id=18342996)
