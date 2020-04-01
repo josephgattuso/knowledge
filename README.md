@@ -4,10 +4,11 @@ description: >-
   wiki hosted on GitHub and GitBook.
 ---
 
-# Knowledge Wiki
+# [Knowledge Wiki](https://josephgattuso.gitbook.io/knowledge)
 
 ## Contents
 
+* [Knowledge Wiki](./)
 * [Work](work/)
   * [Finding Work](work/finding-work/)
     * [CV](work/finding-work/cv.md)
