@@ -1,6 +1,10 @@
-# 🗄  Knowledge Wiki
+---
+description: >-
+  This is my personal wiki where I share everything I know in form of an online
+  wiki hosted on GitHub and GitBook.
+---
 
-This is my personal wiki where I share everything I know in form of an [online wiki](https://josephgattuso.gitbook.io/everything-i-know/) hosted on GitHub and GitBook.
+# 🗄  Knowledge Wiki
 
 ## Contents
 
