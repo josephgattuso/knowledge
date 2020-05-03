@@ -53,7 +53,7 @@ I want to make [my CV](https://github.com/josephgattuso/cv/blob/master/README.md
 
 ## Links
 
-- \[How to write a LaTex class file and design your own CV \(Part 1\)\]\([https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV\_\(Part_1\)](https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV_%28Part_1%29)\)\(\[Part 2\)\]\([https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV\_\(Part_2\)](https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV_%28Part_2%29)\)
+- [How to write a LaTex class file and design your own CV \(Part 1\)\]\([https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV\_\(Part_1\)](https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV_%28Part_1%29)\)\(\[Part 2\)\]\([https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV\_\(Part_2\)](https://www.overleaf.com/learn/latex/How_to_write_a_LaTeX_class_file_and_design_your_own_CV_%28Part_2%29)\)
 - [iOS Resume Examples](https://www.raywenderlich.com/54029/ios-developer-resume-examples)
 - [NatalieHub](https://github.com/nataliemarleny/nataliemarleny.github.io) - Githubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma.
 - [Modern LaTeX CV template](https://github.com/fanzeyi/cv)
