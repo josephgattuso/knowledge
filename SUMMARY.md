@@ -9,5 +9,4 @@
   * [Finding Work](work/finding-work/README.md)
     * [CV](work/finding-work/cv.md)
     * [Portfolio](work/finding-work/portfolio.md)
-  * [Remote Work](work/remote-work.md)
 
