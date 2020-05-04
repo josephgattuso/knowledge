@@ -29,3 +29,5 @@ Temporary Items
 *.plist
 .UlyssesRoot
 private
+
+inoreader.xml

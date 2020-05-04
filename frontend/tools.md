@@ -1,0 +1,12 @@
+### Dev Tools
+
+- [Visual Studio Code](https://code.visualstudio.com/) - VS Code is the text editor I use on a day-to-day basis. It offers a great development environment, which you can extend and customize as much as you like. - [visit website](https://code.visualstudio.com/)
+- [Atom](https://atom.io/) - Atom is another great open source text editor, built by the developers behind Github. It has a great ecosystem of packages to build out your development environment. - [visit website](https://atom.io/)
+- [Git](https://git-scm.com/) - Git is a version control system that is essential to a lot of developers' workflows. It allows you to create snapshots of your code as your project grows, among many other things. - [visit website](https://git-scm.com/)
+- [GitHub](https://github.com/) - GitHub is a development platform to help individuals and teams manage their projects. It has an especially large open source community. - [visit website](https://github.com/)
+- [GitLab](https://gitlab.com/) - GitLab is another great development platform to help manage your projects. It has a lot of lot of feature including task trackers, built-in Continuous Delivery, plus a lot more. - [visit website](https://gitlab.com/)
+- [Emmet](https://emmet.io/) - Supercharge your HTML writing workflow with Emmet. It allows you to use CSS-like abbreviations, which you can then expand out to create your HTML markup. - [visit website](https://emmet.io/)
+- [Sass](https://sass-lang.com/) - Sass is a CSS preprocessor that will supercharge your styling. It adds powerful features to help speed up your development workflow and make your code easier to maintain. - [visit website](https://sass-lang.com/)
+- [Stylus](http://stylus-lang.com/) - Stylus is a CSS preprocessor that aims to clean up the CSS syntax. If you're not a fan of all the curly braces and semi-colons in CSS, then you might want to check it out. - [visit website](http://stylus-lang.com/)
+- [Sizzy](https://sizzy.co/) - Sizzy is a browser built specifically for designers and developers. It allows you to fire up multiple device emulators at once and keep them all in sync. Perfect for helping build responsive websites! - [visit website](https://sizzy.co/) - \$5/mo+
+- [PixelSnap](https://getpixelsnap.com/) - The fastest tool for measuring anything on your screen. PixelSnap's tool is very useful for helping to create pixel-perfect websites. - [visit website](https://getpixelsnap.com/) - \$39

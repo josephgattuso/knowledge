@@ -1,0 +1,15 @@
+## Frameworks & Libraries
+
+- [React](https://reactjs.org/) - React is a JavaScript library from Facebook. It re-defined how front-end developers build the interactive user interfaces. Now a very mature library, it has a strong ecosystem of developers and packages. - [visit website](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs. - [visit website](https://tailwindcss.com/)
+- [Vue.js](https://vuejs.org/) - Vue.js is a very popular JavaScript framework. It offers a beautiful syntax and is a pleasure to work with. It has a strong ecosystem around it and so is a great choice on the front-end. - [visit website](https://vuejs.org/)
+- [Next.js](https://nextjs.org/) - Next.js is a React framework that helps you build server-side rendered applications with zero configuration. There are lots of benefits to building Next applications, so it's well worth checking out. - [visit website](https://nextjs.org/)
+- [GatsbyJS](https://www.gatsbyjs.org/) - Gatsby is a free and open-source framework based on React that helps developers build blazing-fast websites and apps. - [visit website](https://www.gatsbyjs.org/)
+- [Bootstrap](https://getbootstrap.com/) - Bootstrap is the most well-known front-end component library. It's a very well-written tool, perfect for rapid prototyping or web development. - [visit website](https://getbootstrap.com/)
+- [Foundation](https://foundation.zurb.com/) - Foundation is another well-written front-end framework. It's very simple to use and you can build complex interfaces in no time at all. - [visit website](https://foundation.zurb.com/)
+- [Materialize](https://materializecss.com/) - If you like Google's Material Design, then you'll love Materialize. It's a great library for quick development using Material Design principles. - [visit website](https://materializecss.com/)
+- [Bulma](https://bulma.io/) - Bulma is a nice CSS framework based on Flexbox. It makes building mobile-first, responsive layouts is a breeze. - [visit website](https://bulma.io/)
+- [jQuery](https://jquery.com/) - With the massive adoption of JS frameworks, the need for jQuery in new projects is dwindling. But, for new front-end developers and for building smaller sites, it is still very much worthwhile to learn. - [visit website](https://jquery.com/)
+- [React Native](https://facebook.github.io/react-native/) - React Native allows developers to build out native mobile apps in JavaScript. You can then build native iOS and Android using simple command-line prompts. It is a very powerful tool, especially for small teams building out their first apps. - [visit website](https://facebook.github.io/react-native/)
+- [Animate.css](https://daneden.github.io/animate.css/) - If you want to add some quick and easy animations to your site, then Animate.css is the perfect library. - [visit website](https://daneden.github.io/animate.css/)
+- [Parsley](http://parsleyjs.org/) - Parsley allows you to add extremely simple client-side validations to your forms that are easily customizable
