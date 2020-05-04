@@ -4,7 +4,7 @@ I use [Reeder](http://reederapp.com/mac/) to stay on top of my favourite blogs I
 
 I also share follow some people on [Medium](https://medium.com/@joeetuso/following).
 
-## Featured 🏆
+# Featured 🏆
 
 - [Dev.to](https://dev.to/) - vibrant community of developers writing articles and helping each other out. The codebase itself is open source, so anyone in the community can get involved and contribute
 - [CSS Tricks](https://css-tricks.com/) - CSS Tricks focuses mostly on...you guessed it: CSS. However, many articles go beyond CSS and it is a truly incredible resource

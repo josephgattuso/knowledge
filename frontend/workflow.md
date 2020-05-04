@@ -1,6 +1,6 @@
-## Workflow
+# Workflow
 
-### Resources
+## Links Resources
 
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/) - Although called HTML Cheat Sheet, this site is also a great resource for CSS and JavaScript. Perfect for when you're getting started as a front-end developer
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - This cheat sheet will be a valuable resource in your early days of using Emmet

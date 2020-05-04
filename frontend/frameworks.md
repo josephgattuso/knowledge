@@ -1,4 +1,4 @@
-## Frameworks & Libraries
+# Frameworks
 
 - [React](https://reactjs.org/) - React is a JavaScript library from Facebook. It re-defined how front-end developers build the interactive user interfaces. Now a very mature library, it has a strong ecosystem of developers and packages. - [visit website](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs. - [visit website](https://tailwindcss.com/)

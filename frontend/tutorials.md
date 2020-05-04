@@ -1,4 +1,4 @@
-### Interactive Tutorials
+# Tutorials
 
 - [General Assembly Dash](https://dash.generalassemb.ly/) - Dash is an amazing, free resource offered by General Assembly with engaging challenges that get harder as you progress; - [visit website](https://dash.generalassemb.ly/)
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Once you've learned Flexbox, you can test your CSS skills with this fun, interactive Flexbox tutorial/challenge; - [visit website](https://flexboxfroggy.com/)
@@ -12,7 +12,7 @@
 - [Mimo](https://getmimo.com/) - The Mimo app is a fun way to learn to code on the go; The app is beautifully made and builds up your knowledge gradually using fun, interactive lessons; - [visit website](https://getmimo.com/) - \$9.99/MO
 - [Scrimba](https://scrimba.com/) - Scrimba is an awesome learning platform that allows you to interact with the code directly in the screencast player; Subjects include HTML, CSS, JS, React, Vue, and more; - [visit website](https://scrimba.com/)
 
-### Problem Solving
+## Problem Solving
 
 - [Codewars](https://www.codewars.com/) - Build your understanding of JavaScript through logic-based challenges; Codewars is a great place to improve your problem-solving skills
 - [30 Seconds of Interviews](https://30secondsofinterviews.org/) - 30 Seconds of Interviews is a great place to come if you want to test yourself with dev-related questions; Perfect for last minute interview prep!
@@ -22,7 +22,7 @@
 - [Exercism](https://exercism.io/) - If you learn better by problem-solving, Exercism is an incredible resource; Out of the front-end languages, you can only do challenges for JavaScript, but the track will help you become a JS master!
 - [CSSBattle](https://cssbattle.dev/) - CSS code-golfing is here! Use your CSS skills to replicate targets with the least code possible
 
-### Reading
+## Reading
 
 - [Shay Howe: Learn HTML & CSS](https://learn.shayhowe.com/) - Shay Howe has put together a seriously impressive guide to HTML & CSS; I would consider it required reading for anybody learning front-end web development
 - [BEM](http://getbem.com/) - Without a defined structure, CSS can get pretty messy pretty quickly; BEM principles are only one possible solution, but I've found it to be the sanest approach to structuring CSS

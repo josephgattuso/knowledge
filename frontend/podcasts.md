@@ -1,4 +1,4 @@
-### Podcasts
+# Podcasts
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber/) - Devchat.tv offers some great podcasts, my favourite of which is JavaScript Jabber; if you're serious about JavaScript, this is a great way to stay up-to-date with the hot topics
 - [Syntax](https://syntax.fm/) - The Syntax podcast is hosted by Wes Bos and Scott Tolinski; these chaps are very knowledgeable and so it's great to hear them chat about all kinds of interesting dev topics

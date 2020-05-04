@@ -1,4 +1,4 @@
-### Youtube Channels
+# YouTube Channels
 
 - [Awesome Talks](https://awesometalks.party/) - curated list of awesome talks; something for everyone
 - [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag/featured) - great channel with helpful videos on CSS by Jen Simmon; mostly covers CSS grid

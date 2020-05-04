@@ -1,4 +1,4 @@
-## Online Courses
+# Online Courses
 
 - [freeCodeCamp](https://www.freecodecamp.org/) - Offering some amazing tracks, freeCodeCamp is one of the top resources for learning HTML, CSS and JavaScript online. Plus...it's free! Can't really argue with that
 - [Egghead](https://egghead.io/?rc=jxg9kg) - Egghead offers a lot of free community resource courses for you to learn from. They also have some great paid courses that will help boost your knowledge

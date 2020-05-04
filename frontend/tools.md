@@ -1,4 +1,4 @@
-### Dev Tools
+# Tools
 
 - [Visual Studio Code](https://code.visualstudio.com/) - VS Code is the text editor I use on a day-to-day basis. It offers a great development environment, which you can extend and customize as much as you like. - [visit website](https://code.visualstudio.com/)
 - [Atom](https://atom.io/) - Atom is another great open source text editor, built by the developers behind Github. It has a great ecosystem of packages to build out your development environment. - [visit website](https://atom.io/)
