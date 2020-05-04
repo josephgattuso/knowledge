@@ -1,11 +1,12 @@
-# Contents
+# Table of contents
 
-- [Knowledge Wiki](README.md)
-- [Frontend](frontend/frontend.md)
-  - [css](frontend/css/css.md)
-    - [flexbox](frontend/css/flexbox.md)
-- [Work](work/work.md)
-  - [Finding Work](work/finding-work/finding-work.md)
-    - [CV](work/finding-work/cv.md)
-    - [Portfolio](work/finding-work/portfolio.md)
-  - [Remote Work](work/remote-work.md)
+* [Knowledge Wiki](README.md)
+* [Front-end](frontend/README.md)
+  * [CSS](frontend/css/README.md)
+    * [Flexbox](frontend/css/flexbox.md)
+* [Work](work/README.md)
+  * [Finding Work](work/finding-work/README.md)
+    * [CV](work/finding-work/cv.md)
+    * [Portfolio](work/finding-work/portfolio.md)
+  * [Remote Work](work/remote-work.md)
+
