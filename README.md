@@ -10,7 +10,7 @@ This is my personal wiki where I share everything I know in form of an online wi
 - [Frontend](frontend/)
   - [CSS](frontend/css/)
     - [Flexbox](frontend/css/flexbox.md)
-    - [Grid](frontend/css/css-grid.md)
+    - [Grid](frontend/css/grid.md)
   - [Blogs](frontend/blogs.md)
   - [Courses](frontend/courses.md)
   - [Frameworks](frontend/frameworks.md)
@@ -23,4 +23,3 @@ This is my personal wiki where I share everything I know in form of an online wi
   - [Finding Work](work/finding-work/)
     - [CV](work/finding-work/cv.md)
     - [Portfolio](work/finding-work/portfolio.md)
-  - [Remote Work](work/finding-work/README.md)

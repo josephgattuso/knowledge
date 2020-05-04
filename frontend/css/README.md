@@ -2,6 +2,6 @@
 
 Contents
 
-- [CSS](frontend/../README.md)
-- [Flexbox](frontend/../flexbox.md)
-- [Grid](frontend/../css-grid.md)
+- [CSS](/frontend/css/README.md)
+- [Flexbox](flexbox.md)
+- [Grid](/frontend/css/grid.md)
